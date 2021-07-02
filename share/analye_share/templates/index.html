@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+<form action="" method="post">
+{#    <label>算法选择：</label>#}
+{#    <select name="calculated">#}
+{#        <option value="ave_line_calc">求日线 10 20 50 250</option>#}
+{#        <option value="ave_line_compare">10 20 50日线比较</option>#}
+{#        <option value="ave_line_diff">10-20日线、20-50日线求差</option>#}
+{#        <option value="ave_line_go_up">统计10 20 50日线连续上涨天数</option>#}
+{#        <option value="RSI">xx天相對強弱指數</option>#}
+{#        <option value="ave_RSI">最近9天的"14天相對強弱指數"</option>#}
+{#        <option value="compare_RSI">14天相對強弱指數÷9天相對強弱指數</option>#}
+{#        <option value="MTM">動力指標</option>#}
+{#        <option value="ave_pre_close">過去days天平均漲跌幅(%)</option>#}
+{#        <option value="ROC">变动速度指标</option>#}
+{#        <option value="DMI">动向指标或趋向指标</option>#}
+{#        <option value="BOLL"> 動力指標</option>#}
+{##}
+{#    </select><br>#}
+    ts_code: <input type="text" name="ts_code"/><br>
+    start_date: <input type="text" name="start_date"/><br>
+    end_date: <input type="text" name="end_date"/><br>
+    date: <input type="text" name="date"/><br>
+    days: <input type="text" name="days"/><br>
+    Vol: <input type="text" name="Vol"/><br>
+    10SMA>20SMA>50SMA: <input type="text" name="10SMA>20SMA>50SMA"/><br>
+    10SMA-20SMA: <input type="text" name="10SMA-20SMA"/><br>
+    20SMA-50SMA: <input type="text" name="20SMA-50SMA"/><br>
+    days of 10SMA>20SMA>50SMA: <input type="text" name="days of 10SMA>20SMA>50SMA"/><br>
+    14RSI: <input type="text" name="14RSI"/><br>
+    9SMA (14 RSI): <input type="text" name="9SMA (14 RSI)"/><br>
+    14RSI÷9SMA-1 (%): <input type="text" name="14RSI÷9SMA-1 (%)"/><br>
+    MACD (12, 26): <input type="text" name="MACD (12, 26)"/><br>
+    9-EMA of MACD: <input type="text" name="9-EMA of MACD"/><br>
+    Diff: <input type="text" name="Diff"/><br>
+    MOM or MTM (interval 10): <input type="text" name="MOM or MTM (interval 10)"/><br>
+    Avg changing percentage of last 4 days: <input type="text" name="Avg changing percentage of last 4 days"/><br>
+    ROC (interval 10): <input type="text" name="ROC (interval 10)"/><br>
+    +DI - (-DI): <input type="text" name="+DI - (-DI)"/><br>
+    +DI - (-DI)" - ADX: <input type="text" name="+DI - (-DI) - ADX"/><br>
+    Close > BB upper (+-%): <input type="text" name="Close > BB upper (+-%)"/><br>
+    Close > BB middle (+-%): <input type="text" name="Close > BB middle (+-%)"/><br>
+    Close > BB lower (+-%): <input type="text" name="Close > BB lower (+-%)"/><br>
+
+
+    <input type="submit" value="提交"/>
+</form>
+</body>
+</html>
