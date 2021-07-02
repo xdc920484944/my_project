@@ -1,0 +1,1 @@
+{'note': {'id': '5ff2f7b1000000000100adb7', 'title': '2020 年最受李大锤喜爱的十大科技产品', 'desc': '【大锤体验】2020 年最受李大锤喜爱的十大科技产品 一年一度的「最受李大锤喜爱的十大科技产品」榜单正式出炉了！在这个极', 'liked_count': 3658, 'type': 'video', 'timestamp': 1609758641, 'video': 'http://sns-video-hw.xhscdn.com/e2ddb770bd974ebdeb68631832bd7dd7b51a6ef8_v1_ln'}, 'user': {'user_id': '5d6cd2f80000000001001202', 'nickname': '李大锤同学'}}

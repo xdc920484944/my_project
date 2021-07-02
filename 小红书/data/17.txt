@@ -1,0 +1,1 @@
+{'note': {'id': '600be409000000000100bb6d', 'title': '未来一万年世界会变成什么样子？', 'desc': '未来一万年，我们的科技会达到什么水平？今天咱们大胆推测一下未来科技会怎样改变我们的世界。也顺便看看你的有生之年，世界会变', 'liked_count': 251, 'type': 'video', 'timestamp': 1611392009, 'video': 'http://sns-video-hw.xhscdn.com/a85ecbe261523c65e22281ca7d8048de1ba850ae_v1_ln'}, 'user': {'user_id': '575bbaeb6a6a695c7f730c9b', 'nickname': '宇宙大爆炸'}}
